@@ -1,0 +1,36 @@
+
+body
+{
+    background-color:antiquewhite;
+}
+
+#hi1
+{
+    background-color:darkcyan;
+    color: aliceblue;
+
+    margin-left: 400;
+    margin-right: 400;
+    margin-top: 50;
+    
+}
+
+#hi2
+{
+    color: white;
+    background-color: darkcyan;
+}
+
+
+#di1
+{
+    text-align: center;
+    text-align: center;
+    font-family: 'Courier New';
+}
+
+.bc1
+{
+    background-color: chartreuse;
+
+}
